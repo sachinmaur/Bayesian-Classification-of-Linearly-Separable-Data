@@ -21,10 +21,8 @@ The evaluation includes:\
 ✅ Decision Region Plots (For Each Dataset & Class Pairs)\
 📖 **Mathematical Formulation & Theory**\
 ## **🔹 Bayes Theorem: The Foundation of Bayesian Classification**\
+The **Bayes Classifier** is based on **posterior probabilities**\ given by:
+$$P(Ck∣x)=P(x∣Ck)P(Ck)P(x)P(C_k | x) = \frac{P(x | C_k) P(C_k)}{P(x)}$$\
 
-The **Bayes Classifier** is based on **posterior probabilities**,\ given by:
-$$P(Ck∣x)=P(x∣Ck)P(Ck)P(x)P(C_k | x) = \frac{P(x | C_k) P(C_k)}{P(x)}$$
-
-where:
-
+where:\
 -   $$P(Ck∣x)P(C_k | x)$$ = Posterior probability of class $$CkC_k$$ given feature vector x
