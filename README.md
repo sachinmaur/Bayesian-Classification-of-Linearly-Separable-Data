@@ -1,6 +1,6 @@
 # Bayesian-Classification-of-Linearly-Separable-Data
 **Statistical Pattern Recognition - CS616 / CS612 Assignment 1 🔬**\
-  This repository contains the implementation of Bayes Classifiers for Classification Tasks in Statistical Pattern Recognition (CS616 / CS612 Lab). The assignment focuses on implementing classification models from scratch, analyzing decision boundaries, and evaluating performance using various metrics.\
+  This repository contains the implementation of Bayes Classifiers for Classification Tasks in Statistical Pattern Recognition . The assignment focuses on implementing classification models from scratch, analyzing decision boundaries, and evaluating performance using various metrics.\
 🚀 **Assignment Overview**\
 The task is to build Bayes classifiers with different covariance matrix assumptions on three datasets:\
 🟢 Dataset 1: Linearly separable classes (3 classes, 2D)\
