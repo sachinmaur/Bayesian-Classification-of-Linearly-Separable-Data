@@ -18,7 +18,7 @@ The evaluation includes:\
 ✅ Classification Accuracy\
 ✅ Precision, Recall, F1-score (Per-Class & Mean)\
 ✅ Constant Density Contour Plots\
-✅ Decision Region Plots (For Each Dataset & Class Pairs)
+✅ Decision Region Plots (For Each Dataset & Class Pairs)\
 📖 **Mathematical Formulation & Theory**\
 **🔹 Bayes Theorem:**\
 A Bayesian classifier is based on posterior probabilities computed as:\
