@@ -36,5 +36,14 @@ The evaluation includes:
     
     ✅ Decision Region Plots (For Each Dataset & Class Pairs)
 
-$$P\left(C_k\middle| x\right)=\frac{P\left(x\middle| C_k\right)P\left(C_k\right)}{P\left(x\right)}$$
+📖 Mathematical Formulation & Theory
+🔹 Bayes Theorem:
+A Bayesian classifier is based on posterior probabilities computed as:
+$$P(Ck∣x)=P(x∣Ck)P(Ck)P(x)P(C_k | x) = \frac{P(x | C_k) P(C_k)}{P(x)}$$
+where:
+•	$$P(Ck∣x)P(C_k | x) $$= $$Posterior probability of class CkC_k given data xx$$
+•	$$P(x∣Ck)P(x | C_k)$$ = Class conditional density (assumed Gaussian)
+•	$$P(Ck)P(C_k)$$ = Prior probability of class $$CkC_k$$
+•	$$P(x)P(x)$$= Marginal likelihood of xx
+
 
