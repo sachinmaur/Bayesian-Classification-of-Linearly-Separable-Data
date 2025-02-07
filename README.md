@@ -20,7 +20,11 @@ The evaluation includes:\
 ✅ Constant Density Contour Plots\
 ✅ Decision Region Plots (For Each Dataset & Class Pairs)\
 📖 **Mathematical Formulation & Theory**\
-**🔹 Bayes Theorem:**\
-A Bayesian classifier is based on posterior probabilities computed as:\
-$$P(C_k | x) = \frac{P(x | C_k) P(C_k)}{P(x)}$$\
-$$P\left(Ck\mid x\right)=P\left(x\mid C k\right)P\left(Ck\right)P\left(x\right)P\left(C_k\middle| x\right)=\frac{P\left(x\middle| C_k\right)P\left(C_k\right)}{P\left(x\right)}$$
+## **🔹 Bayes Theorem: The Foundation of Bayesian Classification**\
+
+The **Bayes Classifier** is based on **posterior probabilities**,\ given by:
+$$P(Ck∣x)=P(x∣Ck)P(Ck)P(x)P(C_k | x) = \frac{P(x | C_k) P(C_k)}{P(x)}$$
+
+where:
+
+-   $$P(Ck∣x)P(C_k | x)$$ = Posterior probability of class $$CkC_k$$ given feature vector x
