@@ -36,5 +36,5 @@ The evaluation includes:
     
     ✅ Decision Region Plots (For Each Dataset & Class Pairs)
 
+$$P\left(C_k\middle| x\right)=\frac{P\left(x\middle| C_k\right)P\left(C_k\right)}{P\left(x\right)}$$
 
-P\left(C_k\middle| x\right)=\frac{P\left(x\middle| C_k\right)P\left(C_k\right)}{P\left(x\right)}
