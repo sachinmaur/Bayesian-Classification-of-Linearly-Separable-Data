@@ -22,6 +22,5 @@ The evaluation includes:\
 📖 **Mathematical Formulation & Theory**\
 **🔹 Bayes Theorem:**\
 A Bayesian classifier is based on posterior probabilities computed as:\
-$$P(C_k | x) = \frac{P(x | C_k) P(C_k)}{P(x)}$$
-
-P(x) = \sum_{k=1}^{K} P(x | C_k) P(C_k)
+$$P(C_k | x) = \frac{P(x | C_k) P(C_k)}{P(x)}$$\
+$$P\left(Ck\mid x\right)=P\left(x\mid C k\right)P\left(Ck\right)P\left(x\right)P\left(C_k\middle| x\right)=\frac{P\left(x\middle| C_k\right)P\left(C_k\right)}{P\left(x\right)}$$
